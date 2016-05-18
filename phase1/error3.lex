@@ -1,0 +1,5 @@
+program test;
+n_ : integer;
+beginprogram
+endprogram
+
